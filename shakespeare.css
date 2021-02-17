@@ -18,14 +18,17 @@
       font-size: 15px;
       color: black;
   }
-  .KING{
-    color: black;
+.KING{
+    color:chocolate;
 }
 .BERTRAM{
     color: red;
 }
-.Second Lord{
+.Second-Lord{
     color: blueviolet;
+}
+.First-Lord{
+    color:brown;
 }
 
   
