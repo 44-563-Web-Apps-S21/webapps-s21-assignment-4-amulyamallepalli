@@ -17,6 +17,11 @@
       font-family: 'Times New Roman', Times, serif;
       font-size: 15px;
       color: black;
+
+  }
+  .name:hover{
+    background-color: lightgreen;
+    color: sienna;
   }
 .KING{
     color:green;
