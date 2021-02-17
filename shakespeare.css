@@ -30,5 +30,19 @@
 .First-Lord{
     color:brown;
 }
+.table{
+    color:burlywood;
+    text-align: center;
+    padding: 11px;
+    margin: 11px;
+}
+ 
+table, th, td {
+    border: 4px groove;
+  }
+ 
+tr:nth-child(odd) {
+    background-color: lightseagreen;
+}
 
   
