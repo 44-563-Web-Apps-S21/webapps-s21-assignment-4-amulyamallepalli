@@ -1,0 +1,31 @@
+.speech{
+    font-family: Times, serif;  
+    font-size: 16px;
+    color: black;
+  }
+  .stage-direction{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: black;
+    background-color:lightcoral;
+}
+.stage-direction:hover{
+    background-color: lightgreen;
+    color: sienna;
+}   
+  .name{
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 15px;
+      color: black;
+  }
+  .KING{
+    color: black;
+}
+.BERTRAM{
+    color: red;
+}
+.Second Lord{
+    color: blueviolet;
+}
+
+  
