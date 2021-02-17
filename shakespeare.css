@@ -38,7 +38,7 @@
 }
  
 table, th, td {
-    border: 4px black;
+    border: 4px groove;
   }
  
 tr:nth-child(odd) {
